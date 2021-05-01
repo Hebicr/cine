@@ -1,3 +1,4 @@
 # cine
-estructura de datos \n
+estructura de datos 
+
 matrices tridimensionales
